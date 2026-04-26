@@ -1,12 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-// ✅ Bootstrap FIRST
+// Bootstrap
 import "bootstrap/dist/css/bootstrap.min.css";
 
-// ✅ Your styles AFTER (to override bootstrap)
 import "./index.css";
-import "./App.css";   // 🔥 ADD THIS LINE
+import "./App.css";
 
 import App from "./App";
 

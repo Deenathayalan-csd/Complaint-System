@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Complaint-System/static/css/main.3257e09e.css",
-    "main.js": "/Complaint-System/static/js/main.c02f7cb5.js",
+    "main.js": "/Complaint-System/static/js/main.a218b965.js",
     "index.html": "/Complaint-System/index.html",
     "main.3257e09e.css.map": "/Complaint-System/static/css/main.3257e09e.css.map",
-    "main.c02f7cb5.js.map": "/Complaint-System/static/js/main.c02f7cb5.js.map"
+    "main.a218b965.js.map": "/Complaint-System/static/js/main.a218b965.js.map"
   },
   "entrypoints": [
     "static/css/main.3257e09e.css",
-    "static/js/main.c02f7cb5.js"
+    "static/js/main.a218b965.js"
   ]
 }
